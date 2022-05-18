@@ -1,2 +1,2 @@
 # css-test
-reproduce an image as a webssite landing page
+reproduce an image as a website landing page
