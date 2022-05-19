@@ -1,7 +1,49 @@
 body {
     font-family: roboto !important;
+    
 }
 header {
-    background-color: #000066 !important;
+    background-color: #2f2f57 !important;
     color: white !important;
+    float: left;
+}
+
+nav {
+    float: right;
+    margin: 0;
+    display: inline;
+}
+a {
+    color: white;
+    font-size: 16px;
+   }
+
+.box-one {
+    background-color: #2f2f57;
+    margin: 0;
+    color: white;
+}
+
+.box-one > p {
+    color:whitesmoke;
+}
+
+.image-placeholder {
+    background-color: grey;
+    width: 250px;
+    height: 200px;
+    text-align: center;
+    color: white;
+    
+}
+
+button {
+    color: white;
+    background: #0066ff;
+    border-radius: 10%;
+}
+
+.empty-blue-box {
+    border-color:#0066ff;
+    border-style: 5px;
 }
